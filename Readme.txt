@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Batlokoa Website 
 
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://losapps.com/corporate-moderna/
+Author: Moikabi Katlego
+License: https://losapps-technologies.com/license/
